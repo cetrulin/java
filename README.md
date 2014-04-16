@@ -50,3 +50,8 @@ Modular.java
 ====
 Procedimiento que calcula el módulo inverso: (a^-1)( mod n) 
 
+
+Perceptron_simple.java
+====
+Programación de un perceptrón simple para la asignatura Redes de Neuronas Artificiales en 2010.
+
